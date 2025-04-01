@@ -30,5 +30,3 @@ function changeLanguage(language) {
 } 
  
 changeLanguage('en'); 
-
-changeLanguage('ru');
